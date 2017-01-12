@@ -1,0 +1,7 @@
+.section__ctn{
+    text-align: center;
+}
+.image{
+    width: 150rpx;
+    height: 408rpx;
+}
